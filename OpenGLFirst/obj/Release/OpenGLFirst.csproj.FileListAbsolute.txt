@@ -1,0 +1,11 @@
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\bin\Release\OpenGLFirst.exe.config
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\bin\Release\OpenGLFirst.exe
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\bin\Release\OpenGLFirst.pdb
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\bin\Release\OpenTK.dll
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\bin\Release\OpenTK.pdb
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\bin\Release\OpenTK.xml
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\obj\Release\OpenGLFirst.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\obj\Release\OpenGLFirst.csproj.CopyComplete
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\obj\Release\OpenGLFirst.exe
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\obj\Release\OpenGLFirst.pdb
+C:\Users\Nikita\source\repos\OpenGLFirst\OpenGLFirst\obj\Release\OpenGLFirst.csprojAssemblyReference.cache
